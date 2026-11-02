@@ -2,9 +2,9 @@
 ## Week 1: Introduction to Programming and Problem-Solving
 
 ### Student Details
-- Name: Kadiri Favour Omone
-- Matriculation Number: 25/17112
-- Course Code: COS 201
+- Name: Makinde Idowu Oluwaseun
+- Matriculation Number: 25/17322
+- Course: COS 201
 
 ### Practical Exercise
 Created and executed my first java programme
