@@ -1,12 +1,12 @@
 public class HelloWorld {
     public static void main(String[] args) {
 
-        System.out.printIn("COURSE: COS 201");
-        System.out.printIn("COURSE TITLE: Computer Programming I");
-        System.out.printIn("PROGRAMME: Computer Science");
-        System.out.printIn("WEEK: 2");
-        System.out.printIn("TOPIC: Development Environment and Java");
-        System.out.printIn("GOAL: To understand the development environment and learn the basics of Java programming.");
+        System.out.println("COURSE: COS 201");
+        System.out.println("COURSE TITLE: Computer Programming I");
+        System.out.println("PROGRAMME: Computer Science");
+        System.out.println("WEEK: 2");
+        System.out.println("TOPIC: Development Environment and Java");
+        System.out.println("GOAL: To learn how to set up a development environment and write a simple Java program.");
 
     }
 }

@@ -2,8 +2,8 @@
 ## Week 1: Introduction to Programming and Problem-Solving
 
 ### Student Details
-- Name: Makinde Idowu Oluwaseun
-- Matriculation Number: 25/17322
+- Name: Ahirhima Efemena Toluwalase
+- Matriculation Number: 25/16804
 - Course: COS 201
 
 ### Practical Exercise
