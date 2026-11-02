@@ -13,9 +13,4 @@ public class HelloWorld {
 
 
 
-// This line explains the purpose of the next statement System.out.printIn("Welcome to COS 201.")
-
-/* 
-This program introduces students to basic java output statements 
-*/
 
